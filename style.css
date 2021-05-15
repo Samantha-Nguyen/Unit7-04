@@ -7,7 +7,10 @@
   background-color: #600;
 }
 
-#age, 
+#age {
+  color: #600;
+}
+
 #weekday {
   color: #600;
 }
