@@ -4,13 +4,14 @@
 }
 
 #body {
-  background-color: #660000;
+  background-color: #600;
 }
 
-#age, #weekday {
-  color: #660000;
+#age, 
+#weekday {
+  color: #600;
 }
 
 #check {
-  color: #660000;
+  color: #600;
 }

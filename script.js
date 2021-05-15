@@ -1,11 +1,11 @@
 // This links the button to the "check" function
 document.getElementById('check').addEventListener('click', check)
 
-// set everything to 0
+// Set everything to 0
 let age = 0
 let weekday = 0
 
-// this is what checks if you can get the discount
+// This is what checks if you can get the discount
 function check () {
   age = document.getElementById('age').value
   weekday = document.getElementById('weekday').value
